@@ -1,0 +1,5 @@
+INFO:__main__:데이터 요청한 URL 주소 : http://apis.data.go.kr/B553077/api/open/sdsc2/storeListByDate?serviceKey=4bJGyc3PnSj%2B30WUZQFtrkavccxBNxczoVIos5vMZz9%2Fh2Hxfw7JtflieuWlgta4CMOBuUfhbWdDjw6eX%2BoWHg%3D%3D&pageNo=1&numOfRows=10&key=20211210&type=json
+INFO:__main__:정상 출력상태 : 200 | OK
+INFO:__main__:20211210일자 데이터 추출 성공
+08:50:33,977 - (show_updateday.py) 정상 출력상태 : 200 | OK
+[Leehwajung][INFO] - 2022-10-17 08:50:33,983 - (show_updateday.py) 20211210일자 데이터 추출 성공
